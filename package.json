@@ -4,7 +4,6 @@
   "description": "A jsdoc plugin that parses *.vue files.",
   "main": "index.js",
   "scripts": {
-    "test": "xo && rm -rf out && jsdoc example/* -c example/conf.json"
   },
   "repository": {
     "type": "git",
