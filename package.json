@@ -1,33 +1,31 @@
 {
   "name": "jsdoc-vue",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A jsdoc plugin that parses *.vue files.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QingWei-Li/jsdoc-vue.git"
+    "url": "git+https://github.com/Konata9/jsdoc-vue"
   },
   "keywords": [
     "vue",
     "jsdoc"
   ],
-  "xo": {
-    "space": true
-  },
-  "author": "qingwei-li",
+  "author": "Konata9",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/QingWei-Li/jsdoc-vue/issues"
+    "url": "https://github.com/Konata9/jsdoc-vue/issues"
   },
-  "homepage": "https://github.com/QingWei-Li/jsdoc-vue#readme",
+  "homepage": "https://github.com/Konata9/jsdoc-vue#readme",
   "peerDependencies": {
     "vue-template-compiler": "*"
   },
   "devDependencies": {
-    "jsdoc": "^3.4.0",
-    "vue-template-compiler": "^2.1.10",
-    "xo": "^0.17.1"
+    "jsdoc": "^3.5.5",
+    "vue-template-compiler": "^2.5.13"
+  },
+  "dependencies": {
+    "minami": "^1.2.3"
   }
 }
