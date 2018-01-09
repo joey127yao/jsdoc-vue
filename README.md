@@ -12,7 +12,7 @@
 
 ## 安装
 ```
-git@github.com:Konata9/jsdoc-vue.git
+git clone git@github.com:Konata9/jsdoc-vue.git
 
 npm install 
 ```
